@@ -3,7 +3,7 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-Desktop-F2C811?logo=powerbi&logoColor=black&style=flat-square)
 ![DAX](https://img.shields.io/badge/DAX-Calculations-0078D4?logo=microsoft&logoColor=white&style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
-[![View Dashboard](https://img.shields.io/badge/Power_BI-View_Live_Report-F2C811?logo=powerbi&logoColor=black&style=flat-square)](https://app.powerbi.com/view?r=eyJrIjoiYWM1OTVkMDctYjI2NS00NjgwLThkYmItOWFlZDZmY2Y4ZmNjIiwidCI6IjRlMmY1NzE2LTk0ZDMtNGViMC1hZjIyLWI4OTljOTFmN2NkMyIsImMiOjEwfQ%3D%3D)
+[![View Dashboard](https://img.shields.io/badge/Power_BI-View_Live_Report-F2C811?logo=powerbi&logoColor=black&style=flat-square)](https://app.powerbi.com/view?r=eyJrIjoiYWM1OTVkMDctYjI2NS00NjgwLThkYmItOWFlZDZmY2Y4ZmNjIiwidCI6IjRlMmY1NzE2LTk0ZDMtNGViMC1hZjIyLWI4OTljOTFmN2NkMyIsImMiOjEwfQ%3D%3D&pageName=b7bccb735e62d868e65c)
 
 ## 📌 Abstract
 Healthcare systems operate under tight margins where clinical efficiency directly impacts patient capacity, care quality, and financial sustainability. This project delivers an executive business intelligence solution in **Power BI** for **HealthStat**, a healthcare consulting firm, evaluating hospital-level operational performance for elective hip replacement surgeries across New York State.
@@ -127,10 +127,10 @@ Based on the dashboard insights, HealthStat should guide hospital administrators
 ## 🔗 Live Interactive Dashboard
 Click the preview below to explore the interactive Power BI report directly in your browser:
 
-[![Click to Open Live Dashboard](page_1.png)](https://app.powerbi.com/view?r=eyJrIjoiYWM1OTVkMDctYjI2NS00NjgwLThkYmItOWFlZDZmY2Y4ZmNjIiwidCI6IjRlMmY1NzE2LTk0ZDMtNGViMC1hZjIyLWI4OTljOTFmN2NkMyIsImMiOjEwfQ%3D%3D)
-[![Click to Open Live Dashboard](page_2.png)](https://app.powerbi.com/view?r=eyJrIjoiYWM1OTVkMDctYjI2NS00NjgwLThkYmItOWFlZDZmY2Y4ZmNjIiwidCI6IjRlMmY1NzE2LTk0ZDMtNGViMC1hZjIyLWI4OTljOTFmN2NkMyIsImMiOjEwfQ%3D%3D)
-[![Click to Open Live Dashboard](page_3.png)](https://app.powerbi.com/view?r=eyJrIjoiYWM1OTVkMDctYjI2NS00NjgwLThkYmItOWFlZDZmY2Y4ZmNjIiwidCI6IjRlMmY1NzE2LTk0ZDMtNGViMC1hZjIyLWI4OTljOTFmN2NkMyIsImMiOjEwfQ%3D%3D)
-[![Click to Open Live Dashboard](page_4.png)](https://app.powerbi.com/view?r=eyJrIjoiYWM1OTVkMDctYjI2NS00NjgwLThkYmItOWFlZDZmY2Y4ZmNjIiwidCI6IjRlMmY1NzE2LTk0ZDMtNGViMC1hZjIyLWI4OTljOTFmN2NkMyIsImMiOjEwfQ%3D%3D)
+[![Click to Open Live Dashboard](page_1.png)](https://app.powerbi.com/view?r=eyJrIjoiYWM1OTVkMDctYjI2NS00NjgwLThkYmItOWFlZDZmY2Y4ZmNjIiwidCI6IjRlMmY1NzE2LTk0ZDMtNGViMC1hZjIyLWI4OTljOTFmN2NkMyIsImMiOjEwfQ%3D%3D&pageName=b7bccb735e62d868e65c)
+[![Click to Open Live Dashboard](page_2.png)](https://app.powerbi.com/view?r=eyJrIjoiYWM1OTVkMDctYjI2NS00NjgwLThkYmItOWFlZDZmY2Y4ZmNjIiwidCI6IjRlMmY1NzE2LTk0ZDMtNGViMC1hZjIyLWI4OTljOTFmN2NkMyIsImMiOjEwfQ%3D%3D&pageName=b7bccb735e62d868e65c)
+[![Click to Open Live Dashboard](page_3.png)](https://app.powerbi.com/view?r=eyJrIjoiYWM1OTVkMDctYjI2NS00NjgwLThkYmItOWFlZDZmY2Y4ZmNjIiwidCI6IjRlMmY1NzE2LTk0ZDMtNGViMC1hZjIyLWI4OTljOTFmN2NkMyIsImMiOjEwfQ%3D%3D&pageName=b7bccb735e62d868e65c)
+[![Click to Open Live Dashboard](page_4.png)](https://app.powerbi.com/view?r=eyJrIjoiYWM1OTVkMDctYjI2NS00NjgwLThkYmItOWFlZDZmY2Y4ZmNjIiwidCI6IjRlMmY1NzE2LTk0ZDMtNGViMC1hZjIyLWI4OTljOTFmN2NkMyIsImMiOjEwfQ%3D%3D&pageName=b7bccb735e62d868e65c)
 
 ---
 *© 2026 Ryan Tang.*
