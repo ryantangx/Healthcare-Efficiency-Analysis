@@ -27,13 +27,16 @@ The dataset comprises state-wide inpatient discharge records with 30 clinical, o
 Multidimensional exploratory analysis was performed to benchmark hospitals against state-wide averages.
 
 ### 1. Hospital Outlier & Quadrant Analysis (Cost vs. LOS)
-![Cost vs LOS Quadrant Analysis](<link_to_your_cost_comparison_image_here>)
+![Cost vs LOS Quadrant Analysis](quadrant_analysis.png)
+
 *Figure 1: Hospital Benchmarking — Average LOS vs. Average Cost per Discharge with 90th Percentile Cost Threshold.*
 
 **Insight:** Statewide averages established a baseline of **2.65 days LOS** and **$20,910 cost per discharge**. Significant regional variability was identified, with facilities in New York City representing a disproportionate volume of 90th-percentile cost outliers.
 
 ### 2. Clinical Driver & Root Cause Analysis
-![Key Influencers Analysis](<link_to_your_key_influencers_image_here>)
+![LOS Key Influencers Analysis](LOS_key_influencers.png)
+![Cost Key Influencers Analysis](cost_key_influencers.png)
+
 *Figure 2: AI-Powered Key Influencer Analysis on Inpatient Length of Stay and Cost Drivers.*
 
 **Insight:** AI visual modeling confirmed that clinical complexity is the primary driver of extended hospital stays. Patients categorized with **Extreme Severity of Illness** and **Major/Extreme Risk of Mortality** generated the highest upward variance in both stay duration and cost per discharge.
@@ -46,7 +49,8 @@ To evaluate the impact of surgical scale, a summarized proxy table was integrate
 * **Surgical Program Sizing**: Created a calculated table summarizing volume and surgeons by hospital using `SUMMARIZECOLUMNS()`, followed by grouping discharges into 200-procedure bin increments (`< 200`, `200 - 399`, `400 - 599`, `>= 600`).
 * **Dynamic Reporting Titles**: Bound card visual headers dynamically to slicer selections via `VALUES()`.
 
-![Data Model Schema](<link_to_your_data_model_schema_image_here>)
+![Data Model Schema](data_model_schema.png)
+
 *Figure 3: Healthcare Data Model Schema and Summarized Program Volume Relationships.*
 
 ### Core DAX Measures
@@ -123,7 +127,10 @@ Based on the dashboard insights, HealthStat should guide hospital administrators
 ## 🔗 Live Interactive Dashboard
 Click the preview below to explore the interactive Power BI report directly in your browser:
 
-[![Click to Open Live Dashboard](<link_to_your_overview_dashboard_image_here>)](https://app.powerbi.com/view?r=eyJrIjoiYWM1OTVkMDctYjI2NS00NjgwLThkYmItOWFlZDZmY2Y4ZmNjIiwidCI6IjRlMmY1NzE2LTk0ZDMtNGViMC1hZjIyLWI4OTljOTFmN2NkMyIsImMiOjEwfQ%3D%3D)
+[![Click to Open Live Dashboard](page_1.png)](https://app.powerbi.com/view?r=eyJrIjoiYWM1OTVkMDctYjI2NS00NjgwLThkYmItOWFlZDZmY2Y4ZmNjIiwidCI6IjRlMmY1NzE2LTk0ZDMtNGViMC1hZjIyLWI4OTljOTFmN2NkMyIsImMiOjEwfQ%3D%3D)
+[![Click to Open Live Dashboard](page_2.png)](https://app.powerbi.com/view?r=eyJrIjoiYWM1OTVkMDctYjI2NS00NjgwLThkYmItOWFlZDZmY2Y4ZmNjIiwidCI6IjRlMmY1NzE2LTk0ZDMtNGViMC1hZjIyLWI4OTljOTFmN2NkMyIsImMiOjEwfQ%3D%3D)
+[![Click to Open Live Dashboard](page_3.png)](https://app.powerbi.com/view?r=eyJrIjoiYWM1OTVkMDctYjI2NS00NjgwLThkYmItOWFlZDZmY2Y4ZmNjIiwidCI6IjRlMmY1NzE2LTk0ZDMtNGViMC1hZjIyLWI4OTljOTFmN2NkMyIsImMiOjEwfQ%3D%3D)
+[![Click to Open Live Dashboard](page_4.png)](https://app.powerbi.com/view?r=eyJrIjoiYWM1OTVkMDctYjI2NS00NjgwLThkYmItOWFlZDZmY2Y4ZmNjIiwidCI6IjRlMmY1NzE2LTk0ZDMtNGViMC1hZjIyLWI4OTljOTFmN2NkMyIsImMiOjEwfQ%3D%3D)
 
 ---
 *© 2026 Ryan Tang.*
